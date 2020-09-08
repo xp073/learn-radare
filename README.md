@@ -21,4 +21,4 @@ MIT License.
 
 ## Contact
 
-xp0733@gmail.com
+xp0733 [at] gmail.com
