@@ -1,5 +1,5 @@
 # OpenRadare
-Interactive tutorial for Radare 2.
+Interactive tutorial for Radare 2. [Link](https://xp073.github.io/openradare/tutorial.html)
 
 ## What is OpenRadare?
 
