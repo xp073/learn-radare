@@ -1,5 +1,5 @@
 # Learn-Radare
-Interactive tutorial for Radare 2. [Link](https://xp073.github.io/openradare/tutorial.html)
+Interactive tutorial for Radare 2. [Link](https://xp073.github.io/learn-radare)
 
 ## What is learn-radare?
 
