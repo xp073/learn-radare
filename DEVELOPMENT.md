@@ -1,5 +1,5 @@
 # Python
-Python is used for the backend. If you're new to flask do the official flask quickstart and tutorial before contributing.
+Python is used for the backend. If you're new to flask do [the official flask quickstart and tutorial](https://flask.palletsprojects.com/) before contributing.
 ## Style
 I don't really have any style requirements other than using **soft 4 tabs** for indentation and writing **readable** code.
 It's always better to write more lines rather than cramping it all in one line (which I tend to do a lot).
