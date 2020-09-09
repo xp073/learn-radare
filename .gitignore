@@ -1,6 +1,2 @@
-syntax: glob
-*.swp
-.idea
-.DS_Store
-production/
-minify.sh
+__pycache__/
+*.pyc
