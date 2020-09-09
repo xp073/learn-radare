@@ -1,19 +1,16 @@
-# OpenRadare
+# Learn-Radare
 Interactive tutorial for Radare 2. [Link](https://xp073.github.io/openradare/tutorial.html)
 
-## What is OpenRadare?
+## What is learn-radare?
 
-This is an openvim clone for radare2. 
+The long-sought solution to radare2's learning curve. 
 
-OpenRadare is a web-based project to let people quickly have a taste what kind of an editor Radare is.
-Radare is considered to be very useful but can feel devastatingly opaque at first. Hopefully this tutorial makes people feel more comfortable to give it a chance.
-
-OpenRadare is based on a custom engine that interprets radare commands. 
-Fun fact: the engine operates directly on the dom but could be easily refactored to a model that is not view-dependent.
+It'll teach you radare interactively. It's entirely web based.
 
 ## How to help?
 
-//TODO: write this
+1. Look at the wiki
+2. Look at projects
 
 ## License
 
