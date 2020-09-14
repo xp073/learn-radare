@@ -1,14 +1,29 @@
 import React from 'react';
 import styled from 'styled-components'
+import Navbar from "./components/Navbar"
+import TutorialView from "./components/TutorialView"
+
+
+
 function App() {
-  const H1 = styled.h1`
-  color: magenta;
-  font-size: 3rem;
-  `
+
+  function clicked(e) {
+    e.preventDefault();
+    e.persist();
+    console.log("LINK CLICK");
+    console.log(e);
+  }
+  const navlinks = {
+    "Google Site": "http://google.com",
+    "Twitter Site": "http://twitter.com",
+    "Instagram Site": "http://instagram.com",
+    "Clicked" : clicked
+  }
   return (
-    <div className="App">
-        <H1>Learn Radare</H1>
-    </div>
+    <>
+      <Navbar links={navlinks}/>
+      <TutorialView />
+    </>
   );
 }
 
